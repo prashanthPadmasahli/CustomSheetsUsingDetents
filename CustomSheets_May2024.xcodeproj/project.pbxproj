@@ -11,6 +11,7 @@
 		04A46D792C09E6A600A80897 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A46D782C09E6A600A80897 /* ContentView.swift */; };
 		04A46D7B2C09E6A800A80897 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A46D7A2C09E6A800A80897 /* Assets.xcassets */; };
 		04A46D7E2C09E6A800A80897 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A46D7D2C09E6A800A80897 /* Preview Assets.xcassets */; };
+		04A46D852C09EA5400A80897 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A46D842C09EA5400A80897 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		04A46D782C09E6A600A80897 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04A46D7A2C09E6A800A80897 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04A46D7D2C09E6A800A80897 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04A46D842C09EA5400A80897 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				04A46D762C09E6A600A80897 /* CustomSheets_May2024App.swift */,
 				04A46D782C09E6A600A80897 /* ContentView.swift */,
+				04A46D842C09EA5400A80897 /* ModalView.swift */,
 				04A46D7A2C09E6A800A80897 /* Assets.xcassets */,
 				04A46D7C2C09E6A800A80897 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04A46D852C09EA5400A80897 /* ModalView.swift in Sources */,
 				04A46D792C09E6A600A80897 /* ContentView.swift in Sources */,
 				04A46D772C09E6A600A80897 /* CustomSheets_May2024App.swift in Sources */,
 			);
